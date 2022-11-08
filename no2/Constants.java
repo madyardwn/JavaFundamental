@@ -5,5 +5,6 @@ public class Constants {
     double paperHeight = 11; 
     System.out.println("Paper size in centimeters: " + paperWidth * CM_PER_INCH + " by " + paperHeight *    CM_PER_INCH); 
     System.out.println("Paper size in centimeters: " + paperWidth * Constants.CM_PER_INCH + " by " + paperHeight * Constants.CM_PER_INCH);
+    System.out.println("Paper size in centimeters: " + paperWidth * CM_PER_INCH + " by " + paperHeight * CM_PER_INCH);
     } 
 }
